@@ -1,5 +1,5 @@
 ## Hi there 👋
-Meu nome é Lais Kitzmann 
+Meu nome é Kitzmann 
 <!--
 **kageyama10/kageyama10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
